@@ -18,7 +18,6 @@ function SignIn() {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100vh' }}>
-      {/* Header */}
       <div
         style={{
           backgroundColor: '#0078D4',
