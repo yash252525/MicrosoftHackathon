@@ -1,6 +1,6 @@
 – AppName: AI-Powered Health Chatbot
 
-** AppName** is an AI-powered, multilingual chatbot designed to improve **health access and awareness** by helping users describe symptoms in their native language and receive instant diagnosis suggestions, remedies, and next steps.
+AI-powered, multilingual chatbot designed to improve **health access and awareness** by helping users describe symptoms in their native language and receive instant diagnosis suggestions, remedies, and next steps.
 
 Built as part of the **Microsoft Regional Hackathon 2025**, AppName aims to bridge communication gaps and reduce NHS wait times using Azure OpenAI services.
 
